@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ludovic.bennehari@gmail.com
+	name = ludovic bennehari
